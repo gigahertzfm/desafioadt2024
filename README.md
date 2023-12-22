@@ -1,6 +1,6 @@
-# Segundo Desafio ADT / Gigahertz
+# Segundo Grande Desafio ADT / Gigahertz
 
-Nesta segunda edição do Desafio ADT, estamos convidando os adetêncios e adetências a criarem algo útil, divertido, ou simplesmente curioso utilizando a API da Gigahertz e/ou as transcrições dos episódios.
+Nesta segunda edição do Grande Desafio ADT, estamos convidando os adetêncios e adetências a criarem algo útil, divertido, ou simplesmente curioso utilizando a API da Gigahertz e/ou as transcrições dos episódios.
 
 Sejam criativos e criativas, utilizando programação, IA, ou uma combinação de ferramentas, para nos surpreender com suas ideias.
 
